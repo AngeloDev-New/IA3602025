@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.7.17)  23 JUL 2025 16:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.7.17)  23 JUL 2025 16:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -446,16 +446,6 @@ l.302 \end{table}
                  
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--312
-[]\OT1/ptm/b/n/12 Resposta
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 311--312
-\OT1/ptm/b/n/12 Med-
- []
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
@@ -474,11 +464,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--25
  / /relatorio _
  []
 
+)
 
-
-[9])
-
-[10] (./ceonc.aux)
+[9] (./ceonc.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -498,10 +486,10 @@ share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive
 fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
 /times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ceonc.pdf (10 pages, 458520 bytes).
+Output written on ceonc.pdf (9 pages, 458264 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
