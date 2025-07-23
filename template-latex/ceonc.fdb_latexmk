@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex ceonc"] 1753298023.73195 "ceonc.aux" "ceonc.bbl" "ceonc" 1753298470.333 0
+["bibtex ceonc"] 1753298023.73195 "ceonc.aux" "ceonc.bbl" "ceonc" 1753299537.28183 0
   "./referencias.bib" 1753297714.33925 3110 ae72df780efdc82da0a6ea8e8f914ef2 ""
   "./sbc.bst" 1530733464 21864 a668496cca21cfdd211f7fb5f0d57565 ""
-  "ceonc.aux" 1753298469.82133 3723 fff1e29bf1f015c14ec54cca315e0228 "pdflatex"
+  "ceonc.aux" 1753299536.71911 3723 56dec6cbb212661fb1cc05c5b95d9e15 "pdflatex"
   (generated)
   "ceonc.bbl"
   "ceonc.blg"
   (rewritten before read)
-["pdflatex"] 1753298464.37023 "ceonc.tex" "ceonc.pdf" "ceonc" 1753298470.33353 2
+["pdflatex"] 1753299531.28717 "ceonc.tex" "ceonc.pdf" "ceonc" 1753299537.28243 2
   "/etc/texmf/web2c/texmf.cnf" 1751065331.72502 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -87,9 +87,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1752769467 5467255 9a64d1b40e0b893fc5588ecce9d8accf ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1752769614 3345713 9876cc114e0ca3402959de0919699578 ""
-  "ceonc.aux" 1753298469.82133 3723 fff1e29bf1f015c14ec54cca315e0228 "pdflatex"
+  "ceonc.aux" 1753299536.71911 3723 56dec6cbb212661fb1cc05c5b95d9e15 "pdflatex"
   "ceonc.bbl" 1753298023.90283 2096 801730179585529b1f118da000f7da2c "bibtex ceonc"
-  "ceonc.tex" 1753298462.16521 21435 be6fb3deb93485f9b14edaefce99337f ""
+  "ceonc.tex" 1753299528.41497 21425 30d422ccf5c8e02afeba17f906ebfdee ""
   "figs/GRAPH.png" 1753297665.5268 24794 6faa97404e42a229c5335993a0e30045 ""
   "figs/laudo001.png" 1753297665.5308 95394 129522ef58eef132c6ecb1e6509679af ""
   "figs/laudo002.png" 1753297665.5308 140064 dc47ecb1b0c98ffc9d70a402ad265d36 ""
