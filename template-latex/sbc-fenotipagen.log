@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.7.17)  22 JUL 2025 10:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.7.17)  12 AUG 2025 14:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -392,11 +392,11 @@ File: figs/randon_forest.jpeg Graphic file (type jpg)
 <use figs/randon_forest.jpeg>
 Package pdftex.def Info: figs/randon_forest.jpeg  used on input line 72.
 (pdftex.def)             Requested size: 180.67499pt x 110.23431pt.
-<figs/api.jpeg, id=16, 608.2725pt x 108.405pt>
+<figs/api.jpeg, id=16, 173.448pt x 260.172pt>
 File: figs/api.jpeg Graphic file (type jpg)
 <use figs/api.jpeg>
 Package pdftex.def Info: figs/api.jpeg  used on input line 81.
-(pdftex.def)             Requested size: 180.67499pt x 32.19919pt.
+(pdftex.def)             Requested size: 180.67499pt x 271.02504pt.
 
 
 [3 <./figs/randon_forest.jpeg>]
@@ -411,6 +411,10 @@ File: figs/comparacion.jpeg Graphic file (type jpg)
 <use figs/comparacion.jpeg>
 Package pdftex.def Info: figs/comparacion.jpeg  used on input line 96.
 (pdftex.def)             Requested size: 180.67499pt x 82.66747pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 <figs/createvgg16.png, id=21, 653.44125pt x 303.1325pt>
 File: figs/createvgg16.png Graphic file (type png)
 <use figs/createvgg16.png>
@@ -427,7 +431,6 @@ File: figs/createresnet.png Graphic file (type png)
 Package pdftex.def Info: figs/createresnet.png  used on input line 106.
 (pdftex.def)             Requested size: 213.39568pt x 106.52649pt.
 
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <figs/exemploResnet50codigo.png, id=24, 678.535pt x 259.97125pt>
@@ -438,18 +441,16 @@ Package pdftex.def Info: figs/exemploResnet50codigo.png  used on input line 117
 (pdftex.def)             Requested size: 180.67499pt x 69.2213pt.
 
 
-[4 <./figs/api.jpeg> <./figs/comparacion.jpeg>]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[4 <./figs/api.jpeg>]
+Underfull \vbox (badness 1400) has occurred while \output is active []
 
 
 
-[5 <./figs/createvgg16.png (PNG copy)> <./figs/createinceptionv3.png (PNG copy)
-> <./figs/createresnet.png (PNG copy)>]
-<figs/intercecion_v3.png, id=31, 1141.26375pt x 490.83376pt>
+[5 <./figs/comparacion.jpeg> <./figs/createvgg16.png (PNG copy)> <./figs/create
+inceptionv3.png (PNG copy)> <./figs/createresnet.png (PNG copy)>]
+
+[6 <./figs/exemploResnet50codigo.png (PNG copy)>]
+<figs/intercecion_v3.png, id=34, 1141.26375pt x 490.83376pt>
 File: figs/intercecion_v3.png Graphic file (type png)
 <use figs/intercecion_v3.png>
 Package pdftex.def Info: figs/intercecion_v3.png  used on input line 165.
@@ -458,31 +459,27 @@ File: figs/intercecion_v3.png Graphic file (type png)
 <use figs/intercecion_v3.png>
 Package pdftex.def Info: figs/intercecion_v3.png  used on input line 172.
 (pdftex.def)             Requested size: 180.67499pt x 77.70366pt.
-<figs/intercecion_vGG16.png, id=32, 985.6825pt x 426.59375pt>
+<figs/intercecion_vGG16.png, id=35, 985.6825pt x 426.59375pt>
 File: figs/intercecion_vGG16.png Graphic file (type png)
 <use figs/intercecion_vGG16.png>
 Package pdftex.def Info: figs/intercecion_vGG16.png  used on input line 179.
 (pdftex.def)             Requested size: 180.67499pt x 78.18956pt.
 
 
-[6 <./figs/exemploResnet50codigo.png (PNG copy)> <./figs/intercecion_v3.png (PN
-G copy)>]
-<figs/confusionRF.png, id=36, 1147.28625pt x 493.845pt>
+[7 <./figs/intercecion_v3.png (PNG copy)> <./figs/intercecion_vGG16.png (PNG co
+py)>]
+<figs/confusionRF.png, id=40, 1147.28625pt x 493.845pt>
 File: figs/confusionRF.png Graphic file (type png)
 <use figs/confusionRF.png>
 Package pdftex.def Info: figs/confusionRF.png  used on input line 189.
 (pdftex.def)             Requested size: 180.67499pt x 77.76591pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+[8 <./figs/confusionRF.png (PNG copy)>] (./sbc-fenotipagen.bbl
 
+[9])
 
-
-[7 <./figs/intercecion_vGG16.png (PNG copy)>] (./sbc-fenotipagen.bbl
-
-[8 <./figs/confusionRF.png (PNG copy)>])
-
-[9] (./sbc-fenotipagen.aux)
+[10] (./sbc-fenotipagen.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -491,7 +488,7 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  6239 strings out of 473197
  102558 string characters out of 5718605
- 518486 words of memory out of 5000000
+ 518488 words of memory out of 5000000
  29426 multiletter control sequences out of 15000+600000
  576196 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -502,10 +499,10 @@ e/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.p
 fb>
-Output written on sbc-fenotipagen.pdf (9 pages, 575110 bytes).
+Output written on sbc-fenotipagen.pdf (10 pages, 620600 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
