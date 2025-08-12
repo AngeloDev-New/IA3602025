@@ -10,7 +10,7 @@
 \title{Modelos Multimodais de Linguagem para Imagens Médicas: Estudo do Google MedGemma 4B-IT}
 
 % \author{Angelo Gabriel\inst{1}, Vinicius Tessele\inst{1},\\
-% Claudio Honorio da Silva Junior\inst{1}, Leonardo Tampelini\inst{1}}
+% Claudio Honorio da Silva Junior\inst{}, Leonardo Tampelini\inst{1}}
 
 % \address{Departamento de Inteligência Artificial, Biopark Educação -- Toledo, PR, Brasil
 % \email{\{angelo.gabriel, vinicius.tessele, claudio.silva, leonardo.tampelini\}@bioparkedu.com.br}
@@ -48,7 +48,7 @@ Este estudo aborda o uso do Google MedGemma 4B-IT, que surge como uma alternativ
 \begin{figure}[!h]
 \centering
 \includegraphics[width=5in]{figs/med.png}
-\caption{Medical Imaging}
+\caption{Imagem Medica}
 \label{fig:med}
 \end{figure}
 
@@ -111,13 +111,13 @@ Dessa forma, os modelos multimodais surgem como uma ferramenta auxiliar no diagn
 \begin{figure}[!h]
 \centering
 \includegraphics[width=5in]{figs/GRAPH.png}
-\caption{}
+\caption{Distribuição das categorias BI-RADS O Autor (2025)}
 \label{fig:graph}
+
 \end{figure}
 
 Para a avaliação do modelo MedGemma 4B-IT, utilizamos um conjunto real de dados composto por mamografias digitais e seus laudos clínicos associados. As imagens foram obtidas em formato padrão DICOM e convertidos para PNG. Os laudos em PDF foram extraídos os textos identificando qual mama pertence a imagem. Todos os dados foram anonimizados para preservar a privacidade dos pacientes. Os dados foram organizados em um arquivo CSV contendo os caminhos das imagens e as respectivas categorias de achados clínicos.
 
-.Fig~\ref{fig:graph} Distirbuição das categorias BI-RADS O Autor (2025).
 \begin{table}[!h]
 \renewcommand{\arraystretch}{1.3}
 \caption{Distribuição das imagens por categoria BI-RADS}
@@ -297,9 +297,9 @@ Na Tabela~\ref{table:birads_categoria3} observa-se que, embora o modelo MedGEMMA
 \end{table}
 
 
-\vspace{0.2cm}
-\small \textbf{Fonte:} O autor (2025)
-\end{table}
+% \vspace{0.2cm}
+% \small \textbf{Fonte:} O autor (2025)
+% \end{table}
 
 
 Na análise dos casos da Categoria 4 (lesões suspeitas) (Tabela~\ref{table:birads_categoria4}), o modelo MedGEMMA classificou corretamente 2 de 5 imagens como BI-RADS 4, correspondendo à categoria real. 

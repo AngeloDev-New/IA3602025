@@ -5,18 +5,45 @@ Destacam-se como pontos positivos:
 •	A descrição clara da metodologia, incluindo o pré-processamento das imagens e organização dos dados;
 •	A discussão crítica sobre os erros de classificação e limitações do modelo, especialmente no que tange à ausência de fine-tuning;
 •	A proposta de trabalhos futuros é bem definida, apontando para ajustes no modelo e validação com especialistas.
+
+
+
+
+
 Pontos Fracos e Sugestões de Melhoria:
 Apesar do potencial da pesquisa, alguns aspectos limitam a robustez dos resultados apresentados:
 1.	Baixo desempenho em categorias críticas: o modelo apresentou erros significativos ao classificar imagens das categorias BI-RADS 1, 2, 3 e principalmente 5, que são essenciais para detecção de malignidades. Isso compromete a viabilidade clínica imediata da ferramenta.
+
+
 2.	Ausência de métricas quantitativas claras: o artigo não apresenta métricas padrão como acurácia, sensibilidade, especificidade ou F1-score para avaliar a performance geral e por categoria. Isso dificulta a comparação objetiva com outros modelos.
+
+
 3.	Base de dados desbalanceada: a maior parte das imagens pertence à categoria BI-RADS 1, o que pode enviesar o treinamento e a avaliação. 
+
+
+
 4.	Falsos positivos recorrentes: a tendência do modelo de superestimar categorias de risco (classificar imagens normais como suspeitas) pode gerar sobrecarga no sistema de saúde com investigações desnecessárias.
+
+
+
 5.	Ausência de validação cruzada ou externa
+
 6.	Falta de análise estatística: a comparação entre categorias reais e classificações geradas poderia ser acompanhada por testes estatísticos que avaliem a significância dos resultados.
 Ajustes: Mostrar as limitações de forma clara, limitações sejam reconhecidas e abordadas em revisões futuras. A contribuição para o estado da arte é clara, e o tema está alinhado com tendências emergentes na aplicação de IA na saúde.
-Ajustar o modelo possui erros de configuração. Figuras com legendas em inglês, Figuras sem legenda.
-Ajustar referencias.
-Existe diferenças de tamanho de fonte e tipo de fonte.
-Fonte: O autor (2025) – perdido no meio do texto.
 
-.Fig 2 Distirbuição das categorias BI-RADS O Autor (2025) – perdido ajustar
+
+Ajustar o modelo possui erros de configuração. -  socorro
+
+
+
+Figuras com legendas em inglês, Figuras sem legenda. ok 
+Ajustar referencias. ok 
+
+
+
+Existe diferenças de tamanho de fonte e tipo de fonte. uai_latex 
+
+
+Fonte: O autor (2025) – perdido no meio do texto. OK
+
+.Fig 2 Distirbuição das categorias BI-RADS O Autor (2025) – perdido ajustar OK

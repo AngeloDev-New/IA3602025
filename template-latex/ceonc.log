@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.7.17)  23 JUL 2025 17:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.7.17)  12 AUG 2025 11:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -393,91 +393,66 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--194
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+Underfull \vbox (badness 4048) has occurred while \output is active []
+
+
 
 [6 <./figs/laudo001.png (PNG copy)>]
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figs/laudo002.png, id=31, 350.30875pt x 483.8075pt>
+[7]
+<figs/laudo002.png, id=35, 350.30875pt x 483.8075pt>
 File: figs/laudo002.png Graphic file (type png)
 <use figs/laudo002.png>
 Package pdftex.def Info: figs/laudo002.png  used on input line 270.
 (pdftex.def)             Requested size: 180.67499pt x 249.52907pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 282.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-! Too many }'s.
-\@endfloatbox ...pagefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.302 \end{table}
-                 
-? 
-! Extra \endgroup.
-\color@endgroup ->\endgraf \@endpefalse \endgroup 
-                                                  
-l.302 \end{table}
-                 
-? 
-! Too many }'s.
-\color@endbox ->\color@endgroup \egroup 
-                                        
-l.302 \end{table}
-                 
-? 
-
-! LaTeX Error: \begin{document} ended by \end{table}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.302 \end{table}
-                 
-? 
-! Extra \endgroup.
-\end  ...end#1\endcsname \@checkend {#1}\endgroup 
-                                                  \UseHook {env/#1/after}\if...
-l.302 \end{table}
-                 
-? 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[7]
 
 [8 <./figs/laudo002.png (PNG copy)>] (./ceonc.bbl
-Underfull \hbox (badness 1460) in paragraph at lines 20--25
-[]\OT1/ptm/m/n/10.95 INSTITUTO NA-CI-O-NAL DE C[]ANCER JOS[]E ALEN-CAR GO-MES D
-A SILVA (INCA)
+Underfull \hbox (badness 1990) in paragraph at lines 20--25
+[]\OT1/ptm/m/n/12 INSTITUTO NA-CI-O-NAL DE C[]ANCER JOS[]E ALEN-CAR GO-MES DA S
+ILVA
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 20--25
+\OT1/ptm/m/n/12 (INCA) (2025).  Da-dos e n[]umeros so-bre c[]ancer de mama.  $\
+OT1/pcr/m/n/12 https :
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--25
-\OT1/pcr/m/n/10.95 sites / ufu . sti . inca . local / files / /media / document
- / /relatorio _
+\OT1/pcr/m/n/12 / / www . inca . gov . br / sites / ufu . sti . inca . local / 
+files / /media /
  []
 
-)
 
-[9] (./ceonc.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 20--25
+\OT1/pcr/m/n/12 document / /relatorio _ dados-[]e-[]numeros-[]ca-[]mama-[]2023 
+. pdf$\OT1/ptm/m/n/12 .
+ []
+
+
+
+[9])
+
+[10] (./ceonc.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 5794 strings out of 473197
- 98634 string characters out of 5718605
- 520259 words of memory out of 5000000
- 28976 multiletter control sequences out of 15000+600000
- 582049 words of font info for 76 fonts, out of 8000000 for 9000
+ 5792 strings out of 473197
+ 98609 string characters out of 5718605
+ 514261 words of memory out of 5000000
+ 28975 multiletter control sequences out of 15000+600000
+ 580365 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,14n,79p,1590b,417s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
@@ -486,10 +461,10 @@ share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive
 fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
 /times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ceonc.pdf (9 pages, 458262 bytes).
+Output written on ceonc.pdf (10 pages, 458493 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 77 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
