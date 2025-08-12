@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.7.17)  24 JUL 2025 15:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.7.17)  12 AUG 2025 14:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -270,9 +270,6 @@ l.21 \maketitle
                
 ? 
 
-Underfull \vbox (badness 1048) has occurred while \output is active []
-
-
 
 [1
 
@@ -280,7 +277,25 @@ Underfull \vbox (badness 1048) has occurred while \output is active []
 st/fonts/enc/dvips/base/8r.enc}]
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 6094) in paragraph at lines 44--45
+[]\OT1/ptm/m/n/12 A compara[][]ao ser[]a re-a-li-zada em ter-mos de m[]etricas 
+de de-sem-pe-nho
+ []
+
+
+Underfull \hbox (badness 5637) in paragraph at lines 44--45
+\OT1/ptm/m/n/12 como acur[]acia, pre-cis[]ao, re-call, F1-score e an[]alise da 
+ma-triz de con-fus[]ao,
+ []
+
+
+Underfull \hbox (badness 5119) in paragraph at lines 44--45
+\OT1/ptm/m/n/12 al[]em de con-si-de-rar a efici[]encia com-pu-ta-ci-o-nal, como
+ tempo de trei-na-mento.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 \OT1/ptm/m/n/12 Para esta pes-quisa, o con-junto de da-dos Plant-Vil-lage foi u
 ti-li-zado
  []
@@ -288,25 +303,25 @@ ti-li-zado
 
 
 [3]
-Underfull \hbox (badness 5446) in paragraph at lines 59--60
+Underfull \hbox (badness 5446) in paragraph at lines 57--58
 \OT1/ptm/m/n/12 O da-ta-set foi di-vi-dido em con-jun-tos de trei-na-mento, val
 ida[][]ao e teste nas
  []
 
 
-Underfull \hbox (badness 8000) in paragraph at lines 61--62
+Underfull \hbox (badness 8000) in paragraph at lines 59--60
 \OT1/ptm/m/n/12 atrav[]es da ca-mada Ran-dom-Flip("horizontal[]and[]vertical"),
  Ran-dom-Ro-ta-tion(0.2),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 \OT1/ptm/m/n/12 Ran-dom-Zoom(0.2), Ran-dom-Con-trast(0.2) e Ran-dom-Trans-la-ti
 on(height[]factor=0.2,
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 69--70
+Underfull \hbox (badness 2846) in paragraph at lines 63--64
 \OT1/ptm/m/n/12 A ar-qui-te-tura In-cep-ti-onV3 foi car-re-gada com pe-sos pr[]
 e-treinados do Ima-ge-Net
  []
@@ -314,7 +329,7 @@ e-treinados do Ima-ge-Net
 
 
 [4]
-Underfull \hbox (badness 1584) in paragraph at lines 74--75
+Underfull \hbox (badness 1584) in paragraph at lines 71--72
 []\OT1/ptm/m/n/12 O oti-mi-za-dor tf.keras.optimizers.Adam foi uti-li-zado, e a
  fun[][]ao de perda
  []
@@ -325,14 +340,14 @@ Underfull \hbox (badness 1584) in paragraph at lines 74--75
 <figs/fig001.png, id=23, 963.6pt x 525.965pt>
 File: figs/fig001.png Graphic file (type png)
 <use figs/fig001.png>
-Package pdftex.def Info: figs/fig001.png  used on input line 103.
+Package pdftex.def Info: figs/fig001.png  used on input line 101.
 (pdftex.def)             Requested size: 397.48499pt x 216.9552pt.
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
-04.
+02.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
-Underfull \hbox (badness 1052) in paragraph at lines 100--108
+Underfull \hbox (badness 1052) in paragraph at lines 98--106
 \OT1/ptm/m/n/12 Esta se[][]ao apre-senta os re-sul-ta-dos ob-ti-dos com o trei-
 na-mento e a avalia[][]ao dos
  []
@@ -340,30 +355,35 @@ na-mento e a avalia[][]ao dos
 <figs/fig002.png, id=24, 510.90875pt x 461.725pt>
 File: figs/fig002.png Graphic file (type png)
 <use figs/fig002.png>
-Package pdftex.def Info: figs/fig002.png  used on input line 113.
+Package pdftex.def Info: figs/fig002.png  used on input line 111.
 (pdftex.def)             Requested size: 252.94499pt x 228.59332pt.
-<figs/fig003.png, id=25, 592.2125pt x 513.92pt>
-File: figs/fig003.png Graphic file (type png)
-<use figs/fig003.png>
-Package pdftex.def Info: figs/fig003.png  used on input line 122.
-(pdftex.def)             Requested size: 252.94499pt x 219.50703pt.
 
 
 [6]
+<figs/fig003.png, id=28, 592.2125pt x 513.92pt>
+File: figs/fig003.png Graphic file (type png)
+<use figs/fig003.png>
+Package pdftex.def Info: figs/fig003.png  used on input line 120.
+(pdftex.def)             Requested size: 252.94499pt x 219.50703pt.
+
 
 [7 <./figs/fig001.png (PNG copy)> <./figs/fig002.png (PNG copy)>]
 <figs/fig004.png, id=34, 500.87125pt x 466.74374pt>
 File: figs/fig004.png Graphic file (type png)
 <use figs/fig004.png>
-Package pdftex.def Info: figs/fig004.png  used on input line 132.
+Package pdftex.def Info: figs/fig004.png  used on input line 130.
 (pdftex.def)             Requested size: 252.94499pt x 235.7144pt.
 
 
-[8 <./figs/fig003.png (PNG copy)> <./figs/fig004.png (PNG copy)>]
+[8 <./figs/fig003.png (PNG copy)>]
 
-[9] (./cnncomp.bbl)
+[9 <./figs/fig004.png (PNG copy)>]
 
-[10] (./cnncomp.aux)
+[10] (./cnncomp.bbl
+
+[11])
+
+[12] (./cnncomp.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -376,21 +396,21 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Here is how much of TeX's memory you used:
  5734 strings out of 473197
  97755 string characters out of 5718605
- 514925 words of memory out of 5000000
+ 513925 words of memory out of 5000000
  28925 multiletter control sequences out of 15000+600000
  575208 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,79p,1553b,421s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,8n,79p,1600b,421s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.p
 fb>
-Output written on cnncomp.pdf (10 pages, 483931 bytes).
+Output written on cnncomp.pdf (12 pages, 488768 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
